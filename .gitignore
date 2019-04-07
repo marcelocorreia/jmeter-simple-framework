@@ -1,0 +1,7 @@
+*tgz
+*tar.gz
+*.iml
+*.log
+log/
+tmp/
+apache-jmeter-3.3/
